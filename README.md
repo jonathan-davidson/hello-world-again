@@ -1,9 +1,6 @@
-Hello World.
---------------
---------------
+#Hello World.
 
-First test hello world 
-----------------------
+##First test hello world 
 
 This is based on tutorial https://guides.github.com/activities/hello-world/.
 OK I need to add some changes here.
